@@ -1,4 +1,4 @@
-# Olá 👋, meu nome éMarcelo Santos
+# Olá 👋, meu nome é Marcelo Santos
 
 <img width="100%" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="my banner">
 
