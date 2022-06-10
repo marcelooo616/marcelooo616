@@ -27,6 +27,15 @@ Estudando para me tornar desenvolvedor júnior, participando do Bootcamp da Gene
 
 ## 🌟 Github Badges
 <p>
+   ##
+  
+ 
+  ![Snake animation](https://github.com/carol-alonso/carol-alonso/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
+  
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
+  
 </p>
 
 ## 🏆 GitHub Trophies
