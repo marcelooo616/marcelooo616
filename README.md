@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é Marcelo Santos
 
-<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D22AQF5SjGoIs6VFg/feedshare-shrink_800/0/1653911868674?e=1656547200&v=beta&t=iWpNwbN0F9TtesDn5Q_RqpN5fluadpJbwnIt95FCwKw" alt="my banner">
+<img width="100%" src="https://media1.giphy.com/media/ApMVxwzrtIZBfIFWwI/giphy.gif?cid=790b76118f06d9a8d712b046ca7ffcf07a235136c03ba975&rid=giphy.gif&ct=g" alt="my banner">
 
 Estudando para me tornar desenvolvedor júnior, participando do Bootcamp da Generation em processo de aprendizado nas fermentas Java, HTML, CSS, Javascript, MySQL.
 
