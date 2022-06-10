@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é Marcelo Santos
 
-<img width="100%" src="[https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="my banner](https://media1.giphy.com/media/ApMVxwzrtIZBfIFWwI/giphy.gif?cid=790b76118f06d9a8d712b046ca7ffcf07a235136c03ba975&rid=giphy.gif&ct=g)">
+<img width="100%" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="my banner](https://media1.giphy.com/media/ApMVxwzrtIZBfIFWwI/giphy.gif?cid=790b76118f06d9a8d712b046ca7ffcf07a235136c03ba975&rid=giphy.gif&ct=g">
 
 Estudando para me tornar desenvolvedor júnior, participando do Bootcamp da Generation em processo de aprendizado nas fermentas Java, HTML, CSS, Javascript, MySQL.
 
