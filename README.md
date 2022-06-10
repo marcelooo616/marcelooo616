@@ -30,7 +30,7 @@ Estudando para me tornar desenvolvedor júnior, participando do Bootcamp da Gene
    ##
   
  
-  ![Snake animation](https://github.com/carol-alonso/carol-alonso/blob/output/github-contribution-grid-snake.svg)
+ 
   
   ##
   
