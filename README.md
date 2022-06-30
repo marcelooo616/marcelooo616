@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://media1.giphy.com/media/ApMVxwzrtIZBfIFWwI/giphy.gif?cid=790b76118f06d9a8d712b046ca7ffcf07a235136c03ba975&rid=giphy.gif&ct=g" alt="my banner">
 
-Estudando para me tornar desenvolvedor júnior, participando do Bootcamp da Generation em processo de aprendizado nas fermentas Java, HTML, CSS, Javascript, MySQL.
+Olá eu sou a solução dos seus problemas, brincadeiras a parte sou apaixonado por tecnologia, com um forte senso de trabalho em equipe posso contribuir com soft Skills como Proatividade, Persistência, Responsabilidade pessoal, estando sempre em constante evolução busco aprender novas tecnologias para me tornar um profissional fora da curva, participando do bootcamp da Generation procuro evoluir como Desenvolvedor web fullstack  e poder contribui ainda mais, dito isso estar em um ambiente que  valorize o desenvolvimento pessoal/profissional e de suma importância para mim, desde já obrigado por chegar até aqui.
 
 ## 💫 Liitle Bit More About Me
 <p>📫 Como chegar até mim?marcelooo2014@hotmail.com</p>
