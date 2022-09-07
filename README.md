@@ -16,6 +16,7 @@ Olá eu sou a solução dos seus problemas, brincadeiras a parte sou apaixonado 
 ## 📊 Github Status
 
 
+<p><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=pt-br&hide_border=true&username=marcelooo616" height="150" alt="stats graph"><p>
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooo616&layout=compact"><p>
