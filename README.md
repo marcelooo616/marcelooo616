@@ -17,7 +17,6 @@ Olá eu sou a solução dos seus problemas, brincadeiras a parte sou apaixonado 
 
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=marcelooo616&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooo616&layout=compact"><p>
 
