@@ -16,7 +16,7 @@ Olá eu sou a solução dos seus problemas, brincadeiras a parte sou apaixonado 
 ## 📊 Github Status
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelooo616"><p>
-<p><img src="https://metrics.lecoq.io/marcelooo616"><p>
+
 
 
 
@@ -47,5 +47,6 @@ Olá eu sou a solução dos seus problemas, brincadeiras a parte sou apaixonado 
 <p><img src="https://github-profile-trophy.vercel.app/?username=marcelooo616">
 </p>
 
+<p><img src="https://metrics.lecoq.io/marcelooo616"><p>
 <p><img src="https://visitcount.itsvg.in/api?id=marcelooo616&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
