@@ -40,18 +40,7 @@ Olá eu sou a solução dos seus problemas, brincadeiras a parte sou apaixonado 
 <a href="https://www.instagram.com/https://www.instagram.com/marcelooo616/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-   
-  
- 
-  ![Snake animation](https://github.com/carol-alonso/carol-alonso/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  
-  
-  
-</p>
+
 
 ## 🏆 GitHub Trophies
 
