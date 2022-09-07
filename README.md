@@ -13,6 +13,20 @@ Olá eu sou a solução dos seus problemas, brincadeiras a parte sou apaixonado 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&username=marcelooo616" height="150" alt="languages graph"  />
 </div>
 
+## 📊 Github Status
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=marcelooo616"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=marcelooo616&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooo616&layout=compact"><p>
+
+<p><img src="https://metrics.lecoq.io/marcelooo616"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelooo616"><p>
+
+<p><img src="https://visitcount.itsvg.in/api?id=marcelooo616&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+
 
 
 ## 💫 Liitle Bit More About Me
@@ -54,16 +68,4 @@ Olá eu sou a solução dos seus problemas, brincadeiras a parte sou apaixonado 
 <p><img src="https://github-profile-trophy.vercel.app/?username=marcelooo616">
 </p>
 
-## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=marcelooo616"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=marcelooo616&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooo616&layout=compact"><p>
-
-<p><img src="https://metrics.lecoq.io/marcelooo616"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelooo616"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=marcelooo616&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
