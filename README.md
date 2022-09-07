@@ -4,6 +4,17 @@
 
 Olá eu sou a solução dos seus problemas, brincadeiras a parte sou apaixonado por tecnologia, com um forte senso de trabalho em equipe posso contribuir com soft Skills como Proatividade, Persistência, Responsabilidade pessoal, estando sempre em constante evolução busco aprender novas tecnologias para me tornar um profissional fora da curva, participando do bootcamp da Generation procuro evoluir como Desenvolvedor web fullstack  e poder contribui ainda mais, dito isso estar em um ambiente que  valorize o desenvolvimento pessoal/profissional e de suma importância para mim, desde já obrigado por chegar até aqui.
 
+![Snake animation](https://github.com/darioreisjr/darioreisjr/blob/output/github-contribution-grid-snake.svg)
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=pt-br&hide_border=true&username=darioreisjr" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&username=darioreisjr" height="150" alt="languages graph"  />
+</div>
+
+
+
 ## 💫 Liitle Bit More About Me
 <p>📫 Como chegar até mim?marcelooo2014@hotmail.com</p>
 
