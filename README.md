@@ -15,7 +15,7 @@ Olá eu sou a solução dos seus problemas, brincadeiras a parte sou apaixonado 
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=marcelooo616"><p>
+
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=marcelooo616&show_icons=true"><p>
 
