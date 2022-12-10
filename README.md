@@ -15,9 +15,7 @@ Olá, sou Marcelo, tenho 23 anos e me considero uma pessoa com forte senso de tr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooo616&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-<div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
- </div>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
