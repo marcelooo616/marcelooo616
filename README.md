@@ -16,11 +16,13 @@ Olá, sou Marcelo, tenho 23 anos e me considero uma pessoa com forte senso de tr
 
 ### ✍️ Random Dev Quote
 <div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ </div>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marcelooo616&icon=8&color=10)](https://visitcount.itsvg.in)
-</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
   <div align="center">
