@@ -17,9 +17,9 @@ Olá, sou Marcelo, tenho 23 anos e me considero uma pessoa com forte senso de tr
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="300em" src="https://githubreadmestats.vercel.app/apiusername=marcelooo616&theme=jolly&hide_border=false&include_all_commits=false&count_private=true"/>
-  <img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelooo616&theme=jolly&hide_border=false"/>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooo616&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="200em" src="https://githubreadmestats.vercel.app/apiusername=marcelooo616&theme=jolly&hide_border=false&include_all_commits=false&count_private=true"/>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelooo616&theme=jolly&hide_border=false"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooo616&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=marcelooo616&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
