@@ -21,3 +21,9 @@ Olá, sou Marcelo, tenho 23 anos e me considero uma pessoa com forte senso de tr
 [![](https://visitcount.itsvg.in/api?id=marcelooo616&icon=8&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+  <div align="center">
+  
+  ![Snake animation](https://github.com/duartegeovanna/duartegeovanna/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
