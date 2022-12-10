@@ -13,13 +13,10 @@ Olá, sou Marcelo, tenho 23 anos e me considero uma pessoa com forte senso de tr
  
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=marcelooo616&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marcelooo616&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?  username=marcelooo616&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=marcelooo616&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=marcelooo616&theme=jolly&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?  username=marcelooo616&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marcelooo616&theme=radical&no-frame=true&no-bg=false&margin-w=4)
