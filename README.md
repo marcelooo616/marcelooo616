@@ -1,7 +1,10 @@
 # Olá 👋, meu nome é Marcelo Santos
 
 # 💫 About Me:
-Olá, sou Marcelo, tenho 23 anos e me considero uma pessoa com forte senso de trabalho em equipe.<br>Sempre com o desejo de melhorar continuamente, busco aprender novas tecnologias para me preparar para ingressar no ramo da TI.<br>Durante o bootcamp Generation Brasil, pude aprimorar minhas habilidades como desenvolvedor web, focando em Java, HTML, CSS, Javascript, MySQL, Spring boot, React etc. Durante o desenvolvimento do bootcamp pude desenvolver as soft skills necessárias para a minha carreira profissional tais como: Proatividade, Persistência, Responsabilidade pessoal e Orientação ao futuro.<br>Por isso, estar em um ambiente que valoriza o desenvolvimento profissional e pessoal é fundamental para mim.
+E aí pessoal, eu sou o Marcelo e tenho 23 anos de idade. Sou o tipo de cara que acredita que o trabalho em equipe é tudo, então sempre estou buscando maneiras de melhorar e evoluir. Minha meta é ingressar no universo incrível da TI, por isso, estou sempre estudando novas tecnologias e coisas legais do mundo digital.
+Durante o bootcamp Generation Brasil, eu me tornei um ninja em desenvolvimento web, aprendendo tudo sobre Java, HTML, CSS, Javascript, MySQL, Spring Boot e React. Além disso, eu aprendi habilidades sociais incríveis que serão muito úteis em minha jornada profissional, como ser proativo, persistente, responsável e pensar no futuro.
+Eu amo trabalhar em um ambiente animado e que valoriza o crescimento, tanto profissional quanto pessoal, por isso, estou sempre procurando por novos desafios e oportunidades.
+
 
 
 ## 🌐 Socials:
