@@ -12,7 +12,7 @@ Eu amo trabalhar em um ambiente animado e que valoriza o crescimento, tanto prof
 
 # 💻 Tech Stack:
 
-<div style="display: flex; flex-wrap: wrap;">
+<div text-align: center;">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
